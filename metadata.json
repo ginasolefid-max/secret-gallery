@@ -1,0 +1,8 @@
+{
+  "name": "Secret Gallery",
+  "description": "PIN-protected Android photo vault with dual MediaStore purge and stealth .nomedia hiding, complete Kotlin source project, and Termux APK build guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
