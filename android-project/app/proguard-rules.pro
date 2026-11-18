@@ -1,0 +1,2 @@
+-keep class com.secretgallery.vault.** { *; }
+-dontwarn com.google.crypto.tink.**
